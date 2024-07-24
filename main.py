@@ -1,5 +1,5 @@
 import csv
-import koreanize-matplotlib
+import koreanize_matplotlib
 
 # File path to the CSV file
 file_path = 'your_file_path_here.csv'
